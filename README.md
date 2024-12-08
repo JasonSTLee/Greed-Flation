@@ -37,4 +37,23 @@ Gross margin is the percentage of a company's revenue that's retained after dire
 
 ---
 
-**4.** 
+**3c.** 
+![operation](https://github.com/user-attachments/assets/cfbdfcda-aebf-46fc-bd5e-1b6b62ab800c)
+
+Operating margins represents how efficiently a company is able to generate profits through its core operations. There has been continual growth even before the pandemic, with a spike in 2022 followed by 2 years of decline. This indicates that the core operation (selling groceries to consumers) have been dropping in efficiency 2 years in a row. 
+
+---
+
+**3d.** 
+![asdf](https://github.com/user-attachments/assets/4372e3bd-4e2c-4893-abac-4e1a57d775ad)
+
+Nearly identical to the operating margins graph, free cash flow (measures percentage of reveneue that is converted to cash) spiked after pandemic and came crashing down years later. 
+
+---
+
+## Conclusions
+
+Based on my analysis of the financial statements of major retail grocery companies, there is no strong evidence to indicate that major retail grocery companies are exploiting consumers by hiking up prices for their own selfish gain, but rather keeping their operations and business healthy. While there was a **spike in operation margins, and free cash flow, the increae started in 2019 and not 2020** when the pandemic occurred, suggesting that these changes were not solely driven by the pandemic. Additionally, gross margin over time hasn't seen a notable increase, in fact **all companies have a lower gross margin in 2024 than compared to 2010** (2018 in Albertsons case due to lack of data). Despite revenue and profits increasing year over year, after digging deeper we are able to see that operations are not as efficient, and available cash is lower than their previous, recent highs. This indicates that the improvements in financial performance is due to reasons outside of inflating their price, or rather there is a price increase due to operational inefficiencies. 
+
+The [Federal Reserve Bank of New York City](https://libertystreeteconomics.newyorkfed.org/2024/07/what-was-up-with-grocery-prices/) shows there is an increase:
+> increase in these workers’ wages since 2019 has been roughly 15 percentage points
