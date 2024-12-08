@@ -56,7 +56,7 @@ Nearly identical to the operating margins graph, free cash flow (measures percen
 Based on my analysis of the financial statements of major retail grocery companies, there is no strong evidence to indicate that major retail grocery companies are exploiting consumers by hiking up prices for their own selfish gain, but rather keeping their operations and business healthy. While there was a **spike in operation margins, and free cash flow, the increae started in 2019 and not 2020** when the pandemic occurred, suggesting that these changes were not solely driven by the pandemic. Additionally, gross margin over time hasn't seen a notable increase, in fact **all companies have a lower gross margin in 2024 than compared to 2010** (2018 in Albertsons case due to lack of data). Despite revenue and profits increasing year over year, after digging deeper we are able to see that operations are not as efficient, and available cash is lower than their previous, recent highs. This indicates that the improvements in financial performance is due to reasons outside of inflating their price, or rather there is a price increase due to operational inefficiencies. 
 
 The [Federal Reserve Bank of New York City](https://libertystreeteconomics.newyorkfed.org/2024/07/what-was-up-with-grocery-prices/) makes a claim that the higher grocery prices post-pandemic is not caused by inflation but higher wages:
-> [there is an]increase in these workers’ wages since 2019 has been roughly 15 percentage points
+> [there is an] increase in these workers’ wages since 2019 has been roughly 15 percentage points
 
 and
 
