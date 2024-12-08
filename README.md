@@ -7,7 +7,7 @@ In this analysis I set out to find if the top retail grocery stores are exploiti
 
 **Tech used:** Python (libraries include Pandas, OS, Matplotlib, and Alpha Vantage)
 
-All code can be [here](https://github.com/JasonSTLee/Greed-Flation/blob/main/alpha_api.ipynb)
+**Notebook can be found [here](https://github.com/JasonSTLee/Greed-Flation/blob/main/alpha_api.ipynb)**
 
 ## Questions to ask
 
