@@ -57,5 +57,7 @@ Based on my analysis of the financial statements of major retail grocery compani
 
 The [Federal Reserve Bank of New York City](https://libertystreeteconomics.newyorkfed.org/2024/07/what-was-up-with-grocery-prices/) makes a claim that the higher grocery prices post-pandemic is not caused by inflation but higher wages:
 > [there is an]increase in these workers’ wages since 2019 has been roughly 15 percentage points
+
 and
+
 > Grocery worker wages would seem then to be a key factor in why the food index has gone up more than the core price index.
