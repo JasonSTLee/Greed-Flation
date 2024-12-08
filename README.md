@@ -16,6 +16,8 @@ All code can be [here](https://github.com/JasonSTLee/Greed-Flation/blob/main/alp
 
 In all cases since the pandemic, all grocery stores have increased revenue and profit year over year besides Kroger in 2023. However this one year with one company is the exception rather than the rule. 
 
+---
+
 **2.** What are post and pre-pandemic growth like? Are companies taking advantage of people more post-pandemic?
 ![output2](https://github.com/user-attachments/assets/db1e70a7-19e9-48b6-8bfd-52d3265b8ab6)
 
