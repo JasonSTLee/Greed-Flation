@@ -61,3 +61,8 @@ The [Federal Reserve Bank of New York City](https://libertystreeteconomics.newyo
 and
 
 > Grocery worker wages would seem then to be a key factor in why the food index has gone up more than the core price index.
+
+
+### Limitatins of Dataset
+1. Albertsons data only shows 2018 onward while the other companies had financial statements from 2010
+2. While financial statements are important, they only show a snapshot in time for a particular company, not broader economic information
