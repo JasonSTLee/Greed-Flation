@@ -9,3 +9,26 @@ In this analysis I set out to find if the top retail grocery stores are exploiti
 
 All code can be [here](https://github.com/JasonSTLee/Greed-Flation/blob/main/alpha_api.ipynb)
 
+## Questions to ask?
+
+1. Is there an increase of revenue and profits for the companies?
+![revenue profit](https://github.com/user-attachments/assets/131a82c6-a99f-4d84-849d-cad359fbd53d)
+
+In all cases since the pandemic, all grocery stores have increased revenue and profit year over year besides Kroger in 2023. However this one year with one company is the exception rather than the rule. 
+
+2. What are post and pre-pandemic growth like? Are companies taking advantage of people more post-pandemic?
+![output2](https://github.com/user-attachments/assets/db1e70a7-19e9-48b6-8bfd-52d3265b8ab6)
+
+While the average YoY total revenue has grown, profits have not been keeping up. This could mean that cost of operations has gone up while revenue has gone up as well. However the costs may be increasing faster than revenue. Profit growth has declined post-pandemic significantly, suggesting that the pandemic has shifted margins in the retail grocery industry.
+
+3. Are companies more profitable now than before the pandemic?
+![output3](https://github.com/user-attachments/assets/ce83b5e0-c3e6-41e0-b166-94ae63699983)
+
+ROCE (Return on Capital Emplyed) and ROA (Return on Assets) are 2 financial metrics that measure a company's profitability. ROCE focuses on how well a company uses itc capital to generate profits. ROA focuses on how efficiently a company uses all of its assets to generate profit. Both ROCE and ROA have been declining since 2016 and have not returned to those highs ever since. While there have been an increase during and a few years after the pandemic, returns fell in 2024. This _could_ indicate that companies are more efficient in generating profits post-pandemic, however the increase isn't as large to indicate greed-flation.
+
+4a. Are companies charging consumers a higher price post-pandmeic?
+![5](https://github.com/user-attachments/assets/fde6166d-09f6-451e-a235-5513160a90a0)
+
+Gross margin is the percentage of a company's revenue that's retained after direct expenses such as labor and materials have been subracted. Kroger and Albertsons have shown a hike in gross margin after the pandemic while Walmart saw a slight increase and Costco fell from the year prior. However most of the companies after 2021 dropped in gross profit margin. Companies may increase price of goods if gross margins are down as a revenue-increasing measure. This could explain why consumers are feeling 'greed-flation' but this isn't due to companies wanting to maximize profits, but rather returning to a healthy state of profits. 
+
+4b. 
